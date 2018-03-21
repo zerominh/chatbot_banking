@@ -1,0 +1,7 @@
+﻿Cho mình xin địa chỉ của bạn?
+Tiếp theo, mời bạn ghi thông tin địa chỉ.
+Địa chỉ của bạn là gì ạ?
+Xin cho biêt nơi ở đầy đủ hiện tại của bạn.
+Cho mình xin thông tin về nơi ở hiện tại của bạn
+Bạn có thể nhắc lại địa chỉ được không ?
+Cho mình xin lại địa chỉ của bạn ạ.

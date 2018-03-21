@@ -1,0 +1,5 @@
+﻿Xin bạn vui lòng cung cấp thông tin về ngày-tháng-năm sinh.
+Cho mình xin ngày-tháng-năm sinh của bạn.
+Bạn có thể nhắc lại ngày-tháng-nam sinh được không ạ?
+Bạn cho mình xin thông tin về ngày-tháng-năm sinh ?.
+Cho mình xin lại ngày-tháng-năm sinh của bạn ạ.
